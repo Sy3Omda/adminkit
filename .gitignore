@@ -1,4 +1,5 @@
 *.txt
 *.bak
 *.csv
-cheatsheets/
+cheatsheets
+.DS_Store
